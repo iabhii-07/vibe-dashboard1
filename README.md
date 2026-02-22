@@ -117,6 +117,7 @@ http://localhost:3000
 # 👨‍💻 Author
 
 Abhiram Phanindra  
+(Note:Before Running Application in your Terminal Run command "npm install")
 GitHub: https://github.com/iabhii-07/vibe-dashboard1
 
 ---
